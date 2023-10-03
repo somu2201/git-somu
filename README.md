@@ -1,0 +1,2 @@
+# git-somu
+git install
